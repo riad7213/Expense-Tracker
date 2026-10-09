@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Graduation Cap diamond -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M54,27 L79,39 L54,51 L29,39 Z" />
+        <!-- Cap base/skullcap -->
+        <path
+            android:fillColor="#0284C7"
+            android:pathData="M38,45 L38,55 C38,62 70,62 70,55 L70,45 L54,53 Z" />
+        <!-- Tassel cord & drop -->
+        <path
+            android:strokeColor="#F59E0B"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:pathData="M73,42 L77,53 L77,61" />
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M75,61 H79 V65 H75 Z" />
+        <!-- Notebook / Tracker card backdrop -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M33,65 C33,63 35,61 37,61 H71 C73,61 75,63 75,65 V81 C75,83 73,85 71,85 H37 C35,85 33,83 33,81 Z" />
+        <!-- Schedule / lecture progress lines -->
+        <path
+            android:fillColor="#0284C7"
+            android:pathData="M39,67 H53 V69 H39 Z" />
+        <path
+            android:fillColor="#94A3B8"
+            android:pathData="M39,72 H69 V74 H39 Z" />
+        <path
+            android:fillColor="#94A3B8"
+            android:pathData="M39,77 H63 V79 H39 Z" />
+        <!-- Checkmark badge / Clock circle -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M66,66m-5,0a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M63.5,66 L65,67.5 L68.5,64" />
+    </group>
+</vector>

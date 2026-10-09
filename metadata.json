@@ -1,0 +1,6 @@
+{
+  "name": "Tuition Tracker",
+  "description": "Minimal, fast personal Android app for tracking tuitions, lecture records, student management, salary calculations in BDT, and academic progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
